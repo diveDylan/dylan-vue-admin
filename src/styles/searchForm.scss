@@ -1,0 +1,12 @@
+@import './function';
+@import './variables';
+.search-form {
+  background: #fff;
+  padding: rem(30);
+  padding-bottom: 0;
+  border-radius: 6px;
+ 
+  .form-button {
+    width: rem(160);
+  }
+}
